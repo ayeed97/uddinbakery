@@ -1,3 +1,6 @@
-Hello !!! 
- 
-ayeed hensem
+<<<<<<< HEAD
+=======
+Hello !!!
+
+Today is Tuesday !!!
+>>>>>>> saya/development
